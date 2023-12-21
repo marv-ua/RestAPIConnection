@@ -1,0 +1,3 @@
+*.cf
+src/config/ConfigDumpInfo.xml
+src/config/CommonTemplates/**/*.bin
