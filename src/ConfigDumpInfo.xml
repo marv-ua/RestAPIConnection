@@ -4076,11 +4076,11 @@
 		<Metadata name="Constant.УчетнаяЗаписьДляВосстановленияПароля" id="0b92cced-d818-400c-82b6-7726e912a478" configVersion="d4fc460be2f7ec11839a0242ac11000200000000"/>
 		<Metadata name="Constant.ХранитьФайлыВТомахНаДиске" id="cc9679a5-1ed2-4290-8c9b-8a2f6614d053" configVersion="2cff460be2f7ec11839a0242ac11000200000000"/>
 		<Metadata name="Constant.ЭтоАвтономноеРабочееМесто" id="d8621f68-106e-4058-963f-56010491ae2e" configVersion="8295410be2f7ec11839a0242ac11000200000000"/>
-		<Metadata name="DataProcessor.dev_НормализацияАдресов" id="66d9bcd8-9257-484a-b379-b1b0909d129f" configVersion="be4860cedfc5b048a6614ce1020a23ec00000000">
+		<Metadata name="DataProcessor.dev_НормализацияАдресов" id="66d9bcd8-9257-484a-b379-b1b0909d129f" configVersion="f11c3ae2b4447449adf39f29c5ec619000000000">
 			<Metadata name="DataProcessor.dev_НормализацияАдресов.Command.ЗапуститьНормализациюАдресов" id="71d8d239-7997-474d-874f-fad6278aa44d"/>
 		</Metadata>
 		<Metadata name="DataProcessor.dev_НормализацияАдресов.Command.ЗапуститьНормализациюАдресов.CommandModule" id="71d8d239-7997-474d-874f-fad6278aa44d.2" configVersion="96fdefd5e9fc2e4fb76aa12b25682efd00000000"/>
-		<Metadata name="DataProcessor.dev_НормализацияАдресов.ObjectModule" id="66d9bcd8-9257-484a-b379-b1b0909d129f.0" configVersion="fbfe7ad2f39d284cacd5324d703eb9ff00000000"/>
+		<Metadata name="DataProcessor.dev_НормализацияАдресов.ObjectModule" id="66d9bcd8-9257-484a-b379-b1b0909d129f.0" configVersion="9659c51a4f629a438df922bb5c07156100000000"/>
 		<Metadata name="DataProcessor.АвтоматическоеИзвлечениеТекстов" id="3326bbcb-b277-44db-a252-2448119e8146" configVersion="3cc32c0be2f7ec11839a0242ac11000200000000">
 			<Metadata name="DataProcessor.АвтоматическоеИзвлечениеТекстов.Command.АвтоматическоеИзвлечениеТекстов" id="304304b1-36a4-42bb-8ab9-b23b59795001"/>
 		</Metadata>
@@ -6423,7 +6423,7 @@
 		<Metadata name="InformationRegister.dev_АдресаКонтрагентов.Help" id="c48366b8-4528-4531-aebd-d56b47909182.0" configVersion="88146ffd108e424eb2d5918e25319baa00000000"/>
 		<Metadata name="InformationRegister.dev_АдресаКонтрагентов.ManagerModule" id="c48366b8-4528-4531-aebd-d56b47909182.2" configVersion="2770af3da365aa41831d508819100dbe00000000"/>
 		<Metadata name="InformationRegister.dev_АдресаКонтрагентов.RecordSetModule" id="c48366b8-4528-4531-aebd-d56b47909182.1" configVersion="57fa22eb2c237e41887eb3e58c4c478900000000"/>
-		<Metadata name="InformationRegister.dev_АдресныеСведенияКонтрагентов" id="e94088c6-ded1-448a-951f-2fcf95891e53" configVersion="b4d337edec7dd4468c5ecda850a2c48f00000000">
+		<Metadata name="InformationRegister.dev_АдресныеСведенияКонтрагентов" id="e94088c6-ded1-448a-951f-2fcf95891e53" configVersion="3c666add570bdf47beaefdbb5dddd24700000000">
 			<Metadata name="InformationRegister.dev_АдресныеСведенияКонтрагентов.Resource.Страна" id="0710a344-d4b0-4f61-b900-d4407456f093"/>
 			<Metadata name="InformationRegister.dev_АдресныеСведенияКонтрагентов.Resource.Улица" id="236f8457-7863-4331-b9fe-a1b60d8322d0"/>
 			<Metadata name="InformationRegister.dev_АдресныеСведенияКонтрагентов.Resource.Город" id="83e2626c-2c89-4f95-afc0-3dd43ac6c904"/>
